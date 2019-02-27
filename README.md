@@ -7,13 +7,13 @@ ESLint rules, just my personal preference.
 
 `npm install eslint-config-stephenlast -D`
 
-Then add the extends to your `.eslintrc`:
+Add the extends to `.eslintrc`:
 
 ```js
 {
   "extends": "stephenlast",
   "rules": {
-    // your overrides
+    // overrides
   }
 }
 ```
