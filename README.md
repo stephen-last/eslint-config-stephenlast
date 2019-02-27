@@ -1,9 +1,26 @@
 
 # eslint-config-stephenlast
 
-- `cd C:\node\eslint-config-stephenlast`
-- `https://github.com/stephen-last/eslint-config-stephenlast.git`
-- `git push --set-upstream https://github.com/stephen-last/eslint-config-stephenlast.git master`
+ESLint rules, just my personal preference.
+
+## Usage
+
+`npm install --save-dev eslint-config-stephenlast`
+
+Then add the extends to your `.eslintrc`:
+
+```json
+{
+  "extends": "stephenlast",
+  "rules": {
+    // your overrides
+  }
+}
+```
+
+## With VS Code
+
+Install the [ESLint package](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
 
 ## config
 
