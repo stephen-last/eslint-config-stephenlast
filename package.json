@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-stephenlast",
+  "version": "1.0.0",
+  "description": "ESLint rules, personal preference",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephen-last/eslint-config-stephenlast.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "stephenlast",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "Stephen Last",
+  "license": "MIT"
+}
