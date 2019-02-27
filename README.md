@@ -9,7 +9,7 @@ ESLint rules, just my personal preference.
 
 Then add the extends to your `.eslintrc`:
 
-```json
+```js
 {
   "extends": "stephenlast",
   "rules": {
