@@ -3,7 +3,7 @@ module.exports = {
   env: {
     browser: true,
     node: true,
-    jest: true,
+    jest: true
   },
   extends: [
     'standard',
@@ -14,8 +14,7 @@ module.exports = {
     'node',
     'promise',
     'react',
-    'standard',
-    'babel'
+    'standard'
   ],
   rules: {}
 }

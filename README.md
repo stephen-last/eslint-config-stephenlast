@@ -34,6 +34,5 @@ Install the [ESLint package](https://marketplace.visualstudio.com/items?itemName
 - [eslint-plugin-promise](https://github.com/xjamundx/eslint-plugin-promise)
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
 - [eslint-plugin-standard](https://github.com/standard/eslint-plugin-standard)
-- [eslint-plugin-babel](https://github.com/babel/eslint-plugin-babel)
 
 [![js-standard-style](https://cdn.rawgit.com/standard/standard/master/badge.svg)](http://standardjs.com)
