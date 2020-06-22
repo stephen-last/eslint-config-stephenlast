@@ -14,7 +14,8 @@ module.exports = {
     'node',
     'promise',
     'react',
-    'standard'
+    'standard',
+    'babel'
   ],
   rules: {}
 }
